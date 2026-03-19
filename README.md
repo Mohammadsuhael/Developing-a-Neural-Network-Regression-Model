@@ -5,6 +5,7 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 The objective of this experiment is to design, implement, and evaluate a Deep Learning–based Neural Network regression model to predict a continuous output variable from a given set of input features. The task is to preprocess the data, construct a neural network regression architecture, train the model using backpropagation and gradient descent, and evaluate its performance using appropriate regression metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R² score.
+
 ## Neural Network Model
 <img width="987" height="552" alt="image" src="https://github.com/user-attachments/assets/3d3b78de-7023-4ab0-8b7e-bb0018c446e7" />
 
